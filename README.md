@@ -10,6 +10,8 @@ Repo: https://github.com/fulanito123/proy-tienda
   ```
   - el issue fue creado antes de de las 00:01 14/04/25
   - el repo es público
+  - el repo no contiene cambios posteriores a la entrega
+  - solo se revisará la rama por defecto (main o master según sea el caso)
   - sue cumplen los requerimintos que a continuación se decriben
 # Proyecto: Simulación de Eventos Discretos
 
